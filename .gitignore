@@ -1,0 +1,9 @@
+# Ajustes y texto personal de cada usuario (no subir)
+teleprompter_config.txt
+
+# Ejecutables generados (cada uno lo compila con el .bat)
+*.exe
+
+# Salida de la prueba automatica
+selftest.txt
+*.png
